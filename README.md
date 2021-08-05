@@ -2,16 +2,20 @@
 Generation of infinite sequential alphanumeric codes
 
 > Available in 3 languages<br>
+```
 * Visual Basic (VBA)
 * Openedge ABL
 * Javascript (JS)
+```
 
 > Possibilities<br>
+```
 * Numeric:       0123456789                            10 options<br>
 * Alphanumerics: 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ  36 options<br>
 <br>
-
+```
 > Using alphanumerics codes we have much more options<br>
+```
 Digits  Numerics     Alpha numeric <br>
 1       10           36  <br>
 2       100          1.296  <br>
@@ -21,8 +25,10 @@ Digits  Numerics     Alpha numeric <br>
 6       1.000.000    2.176.782.336  <br>
 7       10.000.000   78.364.164.096  <br>
 8       100.000.000  2.821.109.907.456  <br>
+```
 
 > Examples      <br>
+```
 0000  000F  000U  0019  001O  0023  002I  002X  003C  003R  0046  004L  0050  005F  005U  0069  006O  0073  007I  007X   <br>
 0001  000G  000V  001A  001P  0024  002J  002Y  003D  003S  0047  004M  0051  005G  005V  006A  006P  0074  007J  007Y   <br>
 0002  000H  000W  001B  001Q  0025  002K  002Z  003E  003T  0048  004N  0052  005H  005W  006B  006Q  0075  007K  007Z   <br>
@@ -38,3 +44,4 @@ Digits  Numerics     Alpha numeric <br>
 000C  000R  0016  001L  0020  002F  002U  0039  003O  0043  004I  004X  005C  005R  0066  006L  0070  007F  007U  0089   <br>
 000D  000S  0017  001M  0021  002G  002V  003A  003P  0044  004J  004Y  005D  005S  0067  006M  0071  007G  007V  008A   <br>
 000E  000T  0018  001N  0022  002H  002W  003B  003Q  0045  004K  004Z  005E  005T  0068  006N  0072  007H  007W  008B   <br>
+```
