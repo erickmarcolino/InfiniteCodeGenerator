@@ -4,7 +4,7 @@ Generation of infinite sequential alphanumeric codes
 > Available in 3 languages<br>
 ```
 * Visual Basic (VBA)
-* Openedge ABL
+* Openedge Progress ABL 4GL
 * Javascript (JS)
 ```
 
