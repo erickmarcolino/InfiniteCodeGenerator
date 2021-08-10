@@ -16,15 +16,15 @@ Generation of infinite sequential alphanumeric codes
 ```
 > Using alphanumerics codes we have much more options<br>
 ```
-Digits  Numerics     Alpha numeric <br>
-1       10           36  <br>
-2       100          1.296  <br>
-3       1.000        46.656  <br>
-4       10.000       1.679.616  <br>
-5       100.000      60.466.176  <br>
-6       1.000.000    2.176.782.336  <br>
-7       10.000.000   78.364.164.096  <br>
-8       100.000.000  2.821.109.907.456  <br>
+Digits  Numerics     Alpha numeric
+1       10           36 
+2       100          1.296  
+3       1.000        46.656  
+4       10.000       1.679.616  
+5       100.000      60.466.176  
+6       1.000.000    2.176.782.336  
+7       10.000.000   78.364.164.096  
+8       100.000.000  2.821.109.907.456 
 ```
 
 > Examples      <br>
