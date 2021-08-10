@@ -10,8 +10,8 @@ Generation of infinite sequential alphanumeric codes
 
 > Possibilities<br>
 ```
-* Numeric:       0123456789                            10 options<br>
-* Alphanumerics: 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ  36 options<br>
+* Numeric:       0123456789                            10 options
+* Alphanumerics: 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ  36 options
 <br>
 ```
 > Using alphanumerics codes we have much more options<br>
